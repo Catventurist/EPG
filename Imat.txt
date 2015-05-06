@@ -7,6 +7,8 @@ Vid#2: Changing outdated shaders helps, shooting still not working
 Vid#3: Perhaps missing the script scaling bullets; LevelScaledOnTriggerEnter
 Vid#4: No new scripts, planning
 vid#5: Using WorldSpaceCanvas could be easier on dmgtext
+vid#6: Finally animations!
+
 
 
 Goals:
@@ -67,6 +69,7 @@ Notes:
 	Modifier allowing to use multiple talents
 	NPC transforming from hostile to neutral to friendly based on time and effort spent.
 	Learning talents from friendly
+	Death to Transformation
 
 			
 			
