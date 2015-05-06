@@ -1,2 +1,6 @@
 Going through:
 https://www.youtube.com/watch?v=My3lJd1p0jo&index=1&list=PLlHjNcdoyw6XdeywdBBMemGS14BUv4RTI
+
+Notes:
+Vid#1: The updated Scripts constructed differently (shooting etc), Navmesh works on unity free 5+
+Vid#2: Changing outdated shaders helps, shooting still not working
