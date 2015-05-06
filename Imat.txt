@@ -5,6 +5,8 @@ Notes:
 Vid#1: The updated Scripts constructed differently (shooting etc), Navmesh works on unity free 5+
 Vid#2: Changing outdated shaders helps, shooting still not working
 Vid#3: Perhaps missing the script scaling bullets; LevelScaledOnTriggerEnter
+Vid#4: No new scripts, planning
+vid#5: Using WorldSpaceCanvas could be easier on dmgtext
 
 
 Goals:
@@ -55,11 +57,17 @@ Connections:
 			Increase of ratings based on lvl
 			Buffs/Debuffs
 
-perspectiveLove = range, random roll (4-7 love)
-baseLove = perspectiveLove * levelLoveBonus% + bonuses from Talents etc.
-talents: % modifier to balance AOE/DOT with direct
-Player Love = baseLove + baseLove * (playerLoveRating/NPCAcceptanceRating)
-Criticals
+	perspectiveLove = range, random roll (4-7 love)
+	baseLove = perspectiveLove * levelLoveBonus% + bonuses from Talents etc.
+	talents: % modifier to balance AOE/DOT with direct
+	Player Love = baseLove + baseLove * (playerLoveRating/NPCAcceptanceRating)
+	Criticals
+
+Notes:
+	Modifier allowing to use multiple talents
+	NPC transforming from hostile to neutral to friendly based on time and effort spent.
+	Learning talents from friendly
+
 			
 			
 
