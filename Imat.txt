@@ -6,9 +6,11 @@ Vid#1: The updated Scripts constructed differently (shooting etc), Navmesh works
 Vid#2: Changing outdated shaders helps, shooting still not working
 Vid#3: Perhaps missing the script scaling bullets; LevelScaledOnTriggerEnter
 Vid#4: No new scripts, planning
-vid#5: Using WorldSpaceCanvas could be easier on dmgtext
-vid#6: Finally animations!
+Vid#5: Using WorldSpaceCanvas could be easier on dmgtext
+Vid#6: Finally animations!
 Vid#7: Randomized UI stuff, could use more advanced techniques
+Vid#8: Perspective learning throug transformation, randomized
+
 
 
 
