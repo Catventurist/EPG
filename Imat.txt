@@ -10,8 +10,7 @@ Vid#5: Using WorldSpaceCanvas could be easier on dmgtext
 Vid#6: Finally animations!
 Vid#7: Randomized UI stuff, could use more advanced techniques
 Vid#8: Perspective learning throug transformation, randomized
-
-
+Vid#9: Unity 5, problems with shaders
 
 
 Goals:
